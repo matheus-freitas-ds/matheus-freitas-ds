@@ -1,4 +1,30 @@
-### Hi there 👋
+About Me/Sobre Mim
+  Full stack web developer and mathematics student at UFRJ. I love reading, watching movies, playing games and learning new things whenever I can. Currently focused on becoming a full time web developer.
+  Desenvolver full stack e estudante de matemática na UFRJ. Eu gosto de ler, ver filmes, jogar games e aprender coisas novas sempre que posso. Atualmente focado em me tornar um desenvolvedor em tempo integral.
+
+Abilities/Habilidades
+  Tech/Tecnologia:
+    - Javascript
+    - Typescript
+    - React
+    - Node
+    - Express
+    - MongoDB
+    - PostgreSQL
+    - Prisma
+    - Jest
+    - Supertest
+  Languages/Idiomas:
+    - Português (Fluent/Fluente)
+    - English (Advanced/Avançado)
+    - Français (Intermediate/Intermediário)
+  MISC/Outros:
+    - SCRUM
+    - Clean Code
+
+Education/Educação:
+  Driven - Web full stack development 
+  UFRJ - Mathematics
 
 <!--
 **matheus-freitas-ds/matheus-freitas-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
