@@ -4,7 +4,7 @@
   Desenvolvedor full stack e estudante de matemática na UFRJ. Eu gosto de ler, ver filmes, jogar games e aprender coisas novas sempre que posso. Atualmente focado em me tornar um desenvolvedor em tempo integral.
 
 # Abilities/Habilidades
-  ### Tech/Tecnologias:
+  ### Tech/Tecnologias
   - HTML
   - CSS
   - Javascript
@@ -17,15 +17,15 @@
   - Prisma
   - Jest
   - Supertest
-  ### Languages/Idiomas:
+  ### Languages/Idiomas
   - Português (Fluent/Fluente)
   - English (Advanced/Avançado)
   - Français (Intermediate/Intermediário)
-  ### MISC/Outros:
+  ### MISC/Outros
   - SCRUM
   - Clean Code
 
-# Education/Educação:
+# Education/Educação
  - Driven - Web full stack development 
  - UFRJ - Mathematics
 
