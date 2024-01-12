@@ -17,6 +17,9 @@
   - Prisma
   - Jest
   - Supertest
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgres,prisma,jest)](https://skillicons.dev)
+
   ### Languages/Idiomas
   - Português (Fluent/Fluente)
   - English (Advanced/Avançado)
@@ -31,6 +34,9 @@
 
 # Social Media/Redes Sociais
  - [Linkedin](https://www.linkedin.com/in/matheus-freitas-ds/)
+
+
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 <!--
 **matheus-freitas-ds/matheus-freitas-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
