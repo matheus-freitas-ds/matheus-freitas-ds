@@ -30,7 +30,7 @@
  - UFRJ - Mathematics
 
 # Social Media/Redes Sociais
- - ![Linkedin](https://www.linkedin.com/in/matheus-freitas-ds/)
+ - [Linkedin](https://www.linkedin.com/in/matheus-freitas-ds/)
 
 <!--
 **matheus-freitas-ds/matheus-freitas-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
